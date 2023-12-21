@@ -23,6 +23,8 @@
     - Improved highlighting of errors, warnings, and other language diagnostics
 - :warning: [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
     - Simple source code spell checker
+- :warning: [Sonar Lint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+    - Linting by Sonar
 
 ### Formatting
 - :warning: [Black](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
